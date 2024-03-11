@@ -1,0 +1,43 @@
+Na Interc
+Bicarbonatos
+Conductividad Eléctrica
+Sulfato
+Cloruro
+Potasio
+Ca Inter
+Mg Inter
+K Interc
+Sodio
+Magnesio
+Calcio
+pH
+0,3 bares %HCC
+15,0 bares %HPMP
+H° Aprovechable
+N Disponible
+RAS (Relación  Adsorción de Sodio)
+Clase Textural
+%Saturación de la pasta
+Densidad Aparente
+Arcilla
+Arena
+Limo
+K Disponible
+pH 1:2, 5 suspensión
+Materia Orgánica
+Potasio Soluble
+Azufre Extractable
+C.I.C.
+Suma de bases
+Zn Disponible
+Mn Disponibl
+Fe Disponible
+Cu Disponible
+B Disponible
+P Disponible
+Carbonato total
+Caliza activa
+
+############################
+
+Analitos de referencia (Analisis foliar pinta 2020.xlsx)
